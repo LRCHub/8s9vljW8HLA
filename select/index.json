@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夏実",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-01-02T09:12:20.829279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏実 - Slowed Down",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/01_夏実_-_Slowed_Down_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏実 - Sped Up",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/02_夏実_-_Sped_Up_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏実",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/03_夏実_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏実 - Kajitsu",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/04_夏実_-_Kajitsu_AKASAKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏実",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_夏実_AKASAKI.txt"
+    }
+  ]
+}
